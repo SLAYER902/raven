@@ -1,0 +1,8 @@
+{
+  "openai_api_key": "PLACE_YOUR_OPENAI_KEY_HERE",
+  "deepseek_api_key": "PLACE_YOUR_DEEPSEEK_KEY_HERE",
+  "nvidia_api_key": "PLACE_YOUR_NVIDIA_KEY_HERE",
+  "coqui": {
+    "tts_local_path": "/path/to/coqui/venv"
+  }
+}
