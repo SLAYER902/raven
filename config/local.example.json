@@ -1,6 +1,6 @@
 {
-  "openai_api_key": "PLACE_YOUR_OPENAI_KEY_HERE",
-  "deepseek_api_key": "PLACE_YOUR_DEEPSEEK_KEY_HERE",
-  "nvidia_api_key": "PLACE_YOUR_NVIDIA_KEY_HERE",
+  "openai_api_key": "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",
+  "deepseek_api_key": "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",
+  "nvidia_api_key": "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",
   "coqui": { "tts_local_path": "/path/to/coqui/venv" }
 }
